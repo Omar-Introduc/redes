@@ -1,0 +1,1 @@
+kubectl create secret generic app-secrets --from-literal=api-key=SUPER_SECRET_TOKEN_123
